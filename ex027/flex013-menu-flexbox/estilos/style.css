@@ -21,6 +21,7 @@ header {
 
 header > h1 {
   border: 1px dotted black;
+  padding-left: 10px;
 }
 
 header > nav {
